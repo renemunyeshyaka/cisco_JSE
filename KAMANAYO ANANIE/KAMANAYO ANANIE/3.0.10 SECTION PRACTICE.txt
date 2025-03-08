@@ -1,5 +1,6 @@
+
 //JSE-Class-Works
-//KAMANAYO Ananie
+//KAMANAYO Ananie work
 //3.0.10 SECTION PRACTICE
 //Arithmetic operators
 //Exercise 1: Fill in the missing operators to get the expected result (replace the underscore symbol with the appropriate operator):
