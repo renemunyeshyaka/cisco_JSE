@@ -4,7 +4,7 @@
 //Arithmetic operators
 //Exercise 1: Fill in the missing operators to get the expected result (replace the underscore symbol with the appropriate operator):
 
-console.log(2*3+1);      // expected 7  (Multiplication first: 3 * 1 = 3, then addition: 2 + 3 = 7)
+console.log(2*3+1);      // expected 7  (Multiplication first: 3 * 2 = 6, then addition: 6 + 1 = 7)
 console.log(2**4);         // expected 16 (Exponentiation: 2^4 = 16)
 console.log(5*1);          // expected 5  (Multiplication: 5 * 1 = 5)
 console.log(8**2-5**2);  // expected 39 (Multiplication first: 8 * 2 = 64, 5 ** 2 = 25, then addition: 16 + 10 = 39)
