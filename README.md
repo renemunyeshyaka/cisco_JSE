@@ -7,6 +7,6 @@ I'm writing to inform your that, all assignment from our course Java Script Esse
 
 The first assignment to be upload here, will be:
 
-1. 3.0.10 SECTION PRACTICE (to be done by the next week)
+1. 3.0.10 SECTION PRACTICE
 2. 3.2.4 SECTION PRACTICE
 3. 3.2.5  LAB  Interaction
