@@ -7,7 +7,7 @@ I'm writing to inform your that, all assignment from our course Java Script Esse
 
 The first assignment to be upload here, will be:
 
-    3.0.10 SECTION PRACTICE
-    3.2.4 SECTION PRACTICE
-    3.2.5 LAB Interaction
+    1. 3.0.10 SECTION PRACTICE
+    2. 3.2.4 SECTION PRACTICE
+    3. 3.2.5 LAB Interaction
 
