@@ -10,4 +10,7 @@ The first assignment to be upload here, will be:
     1. 3.0.10 SECTION PRACTICE
     2. 3.2.4 SECTION PRACTICE
     3. 3.2.5 LAB Interaction
+    4. 4.0.8 SECTION PRACTICE
+    5. 4.0.9  LAB  Conditional execution
+    
 
